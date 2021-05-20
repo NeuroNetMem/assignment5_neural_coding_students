@@ -2,7 +2,7 @@
 
 This assignment introduces the basic analysis techniques to investigate how
 information entering the senses is transformed into a representation in the
-brain -- a process called "neural cording".
+brain -- a process called "neural coding".
 
 The assignment is written as a Jupyter notebook. The notebook contains some
 background information and it should be possible to accomplish all exercises
